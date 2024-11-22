@@ -1,0 +1,53 @@
+Data/
+├── ERA5-Land
+│   ├── e_total.nc
+│   └── total_prec.nc
+├── GRDC_Stations.xlsx
+├── GSIM
+│   ├── GSIM_indices
+│   │   ├── HOMOGENEITY
+│   │   │   ├── monthly_homogeneity.csv
+│   │   │   ├── seasonal_homogeneity.csv
+│   │   │   └── yearly_homogeneity.csv
+│   │   ├── README.txt
+│   │   └── TIMESERIES
+│   │       ├── monthly // here are files for each GSIM catchment
+│   │       ├── seasonal // here are files for each GSIM catchment
+│   │       └── yearly // here are files for each GSIM catchment
+│   └── GSIM_metadata
+│       ├── GSIM_catalog
+│       │   ├── GSIM_catchment_characteristics.csv
+│       │   ├── GSIM_metadata.csv
+│       │   └── GSIM_suspect_coordinates_stations.csv
+│       ├── GSIM_catchments // here are files for each GSIM catchment
+│       └── Readme_GSIM_part1.txt
+├── GeoDAR_ICOLD2023_dams.geojson
+├── land_sea_mask_for_era5.tif
+└── wateruse
+    ├── Readme.docx
+    ├── domestic water use v2
+    │   ├── cons_dom.nc
+    │   └── withd_dom.nc
+    ├── electricity water use v2
+    │   ├── cons_elec.nc
+    │   └── withd_elec.nc
+    ├── irrigation water use v2
+    │   ├── cons_irr_h08.nc
+    │   ├── cons_irr_jpjml.nc
+    │   ├── cons_irr_pcr.nc
+    │   ├── cons_irr_watergap.nc
+    │   ├── withd_irr_h08.nc
+    │   ├── withd_irr_lpjml.nc
+    │   ├── withd_irr_pcrglobwb.nc
+    │   └── withd_irr_watergap.nc
+    ├── livestock water use v2
+    │   ├── cons_liv.nc
+    │   └── withd_liv.nc
+    ├── manufacturing water use v2
+    │   ├── cons_mfg.nc
+    │   └── withd_mfg.nc
+    └── mining water use v2
+        ├── cons_min.nc
+        └── withd_min.nc
+
+19 directories, 32 files

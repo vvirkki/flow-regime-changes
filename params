@@ -1,0 +1,9 @@
+yr_begin;1971
+yr_end;2010
+min_record_length_yr;30
+max_missing_obs_fraction;0.5
+min_catchment_area;1000
+border_intersection_threshold;0.01
+nested_intersection_threshold;0.90
+incomplete_fill_nyrs;10
+pval;0.05

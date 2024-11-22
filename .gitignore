@@ -1,0 +1,18 @@
+# source data
+Data/ERA5-Land
+Data/GSIM
+Data/wateruse
+Data/GRDC_stations.xlsx
+Data/GeoDAR_ICOLD2023_dams.geojson
+
+# outputs
+output/
+*.html
+
+# system files
+.DS_Store
+*.DS_Store
+.Rhistory
+.Rproj.user
+*.Rproj
+*.Rdata

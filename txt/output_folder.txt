@@ -1,0 +1,196 @@
+output
+├── figures_tables
+│   ├── fig2_streamflow_trend_components.gpkg
+│   ├── fig3_ctm_size_breakdown.pdf
+│   ├── fig3_frc_assignments.gpkg
+│   ├── fig4_driver_trend_components.gpkg
+│   ├── fig5.pdf
+│   ├── fig5_sample_sizes.csv
+│   ├── fig6.pdf
+│   ├── fig6_sample_sizes_long.csv
+│   ├── fig6_tableS2_sample_sizes_wide.csv
+│   ├── figS1_sample_characteristics.gpkg
+│   ├── figS3_streamflow_component_significance.gpkg
+│   ├── figS4.pdf
+│   ├── figS5.pdf
+│   └── tableS1.csv
+├── release_datafiles
+│   ├── catchment_attributes.csv
+│   ├── catchment_geometries.gpkg
+│   ├── dor_increases_nonincreases.csv
+│   ├── et_prec_wateruse_trends.csv
+│   ├── frc_assignments.csv
+│   └── streamflow_trends.csv
+├── temp_drivers_tif_gpkg
+│   ├── dams.gpkg
+│   ├── e-total
+│   │   ├── e-total_1950.tif
+│   │   ├── e-total_1951.tif
+│   │   ├── e-total_1952.tif
+│   │   ├── e-total_1953.tif
+│   │   ├── e-total_1954.tif
+│   │   ├── e-total_1955.tif
+│   │   ├── e-total_1956.tif
+│   │   ├── e-total_1957.tif
+│   │   ├── e-total_1958.tif
+│   │   ├── e-total_1959.tif
+│   │   ├── e-total_1960.tif
+│   │   ├── e-total_1961.tif
+│   │   ├── e-total_1962.tif
+│   │   ├── e-total_1963.tif
+│   │   ├── e-total_1964.tif
+│   │   ├── e-total_1965.tif
+│   │   ├── e-total_1966.tif
+│   │   ├── e-total_1967.tif
+│   │   ├── e-total_1968.tif
+│   │   ├── e-total_1969.tif
+│   │   ├── e-total_1970.tif
+│   │   ├── e-total_1971.tif
+│   │   ├── e-total_1972.tif
+│   │   ├── e-total_1973.tif
+│   │   ├── e-total_1974.tif
+│   │   ├── e-total_1975.tif
+│   │   ├── e-total_1976.tif
+│   │   ├── e-total_1977.tif
+│   │   ├── e-total_1978.tif
+│   │   ├── e-total_1979.tif
+│   │   ├── e-total_1980.tif
+│   │   ├── e-total_1981.tif
+│   │   ├── e-total_1982.tif
+│   │   ├── e-total_1983.tif
+│   │   ├── e-total_1984.tif
+│   │   ├── e-total_1985.tif
+│   │   ├── e-total_1986.tif
+│   │   ├── e-total_1987.tif
+│   │   ├── e-total_1988.tif
+│   │   ├── e-total_1989.tif
+│   │   ├── e-total_1990.tif
+│   │   ├── e-total_1991.tif
+│   │   ├── e-total_1992.tif
+│   │   ├── e-total_1993.tif
+│   │   ├── e-total_1994.tif
+│   │   ├── e-total_1995.tif
+│   │   ├── e-total_1996.tif
+│   │   ├── e-total_1997.tif
+│   │   ├── e-total_1998.tif
+│   │   ├── e-total_1999.tif
+│   │   ├── e-total_2000.tif
+│   │   ├── e-total_2001.tif
+│   │   ├── e-total_2002.tif
+│   │   ├── e-total_2003.tif
+│   │   ├── e-total_2004.tif
+│   │   ├── e-total_2005.tif
+│   │   ├── e-total_2006.tif
+│   │   ├── e-total_2007.tif
+│   │   ├── e-total_2008.tif
+│   │   ├── e-total_2009.tif
+│   │   ├── e-total_2010.tif
+│   │   ├── e-total_2011.tif
+│   │   ├── e-total_2012.tif
+│   │   ├── e-total_2013.tif
+│   │   ├── e-total_2014.tif
+│   │   ├── e-total_2015.tif
+│   │   ├── e-total_2016.tif
+│   │   ├── e-total_2017.tif
+│   │   ├── e-total_2018.tif
+│   │   ├── e-total_2019.tif
+│   │   ├── e-total_2020.tif
+│   │   ├── e-total_2021.tif
+│   │   └── e-total_2022.tif
+│   ├── total-prec
+│   │   ├── total-prec_1950.tif
+│   │   ├── total-prec_1951.tif
+│   │   ├── total-prec_1952.tif
+│   │   ├── total-prec_1953.tif
+│   │   ├── total-prec_1954.tif
+│   │   ├── total-prec_1955.tif
+│   │   ├── total-prec_1956.tif
+│   │   ├── total-prec_1957.tif
+│   │   ├── total-prec_1958.tif
+│   │   ├── total-prec_1959.tif
+│   │   ├── total-prec_1960.tif
+│   │   ├── total-prec_1961.tif
+│   │   ├── total-prec_1962.tif
+│   │   ├── total-prec_1963.tif
+│   │   ├── total-prec_1964.tif
+│   │   ├── total-prec_1965.tif
+│   │   ├── total-prec_1966.tif
+│   │   ├── total-prec_1967.tif
+│   │   ├── total-prec_1968.tif
+│   │   ├── total-prec_1969.tif
+│   │   ├── total-prec_1970.tif
+│   │   ├── total-prec_1971.tif
+│   │   ├── total-prec_1972.tif
+│   │   ├── total-prec_1973.tif
+│   │   ├── total-prec_1974.tif
+│   │   ├── total-prec_1975.tif
+│   │   ├── total-prec_1976.tif
+│   │   ├── total-prec_1977.tif
+│   │   ├── total-prec_1978.tif
+│   │   ├── total-prec_1979.tif
+│   │   ├── total-prec_1980.tif
+│   │   ├── total-prec_1981.tif
+│   │   ├── total-prec_1982.tif
+│   │   ├── total-prec_1983.tif
+│   │   ├── total-prec_1984.tif
+│   │   ├── total-prec_1985.tif
+│   │   ├── total-prec_1986.tif
+│   │   ├── total-prec_1987.tif
+│   │   ├── total-prec_1988.tif
+│   │   ├── total-prec_1989.tif
+│   │   ├── total-prec_1990.tif
+│   │   ├── total-prec_1991.tif
+│   │   ├── total-prec_1992.tif
+│   │   ├── total-prec_1993.tif
+│   │   ├── total-prec_1994.tif
+│   │   ├── total-prec_1995.tif
+│   │   ├── total-prec_1996.tif
+│   │   ├── total-prec_1997.tif
+│   │   ├── total-prec_1998.tif
+│   │   ├── total-prec_1999.tif
+│   │   ├── total-prec_2000.tif
+│   │   ├── total-prec_2001.tif
+│   │   ├── total-prec_2002.tif
+│   │   ├── total-prec_2003.tif
+│   │   ├── total-prec_2004.tif
+│   │   ├── total-prec_2005.tif
+│   │   ├── total-prec_2006.tif
+│   │   ├── total-prec_2007.tif
+│   │   ├── total-prec_2008.tif
+│   │   ├── total-prec_2009.tif
+│   │   ├── total-prec_2010.tif
+│   │   ├── total-prec_2011.tif
+│   │   ├── total-prec_2012.tif
+│   │   ├── total-prec_2013.tif
+│   │   ├── total-prec_2014.tif
+│   │   ├── total-prec_2015.tif
+│   │   ├── total-prec_2016.tif
+│   │   ├── total-prec_2017.tif
+│   │   ├── total-prec_2018.tif
+│   │   ├── total-prec_2019.tif
+│   │   ├── total-prec_2020.tif
+│   │   ├── total-prec_2021.tif
+│   │   └── total-prec_2022.tif
+│   └── wateruse
+│       ├── wateruse_domestic.tif
+│       ├── wateruse_electricity.tif
+│       ├── wateruse_irrigation.tif
+│       ├── wateruse_livestock.tif
+│       ├── wateruse_manufacturing.tif
+│       └── wateruse_mining.tif
+└── temp_rds_gpkg
+    ├── 01_catchment_records.rds
+    ├── 02_catchment_attributes.rds
+    ├── 03_catchment_geoms.gpkg
+    ├── 05_monthly_streamflow.rds
+    ├── 07_dor.rds
+    ├── 07_e_total.rds
+    ├── 07_total_prec.rds
+    ├── 07_wateruse_all_sectors.rds
+    ├── 08_e_total_annual_values_trends_theil_sen.rds
+    ├── 08_streamflow_annual_values_trends_theil_sen.rds
+    ├── 08_total_prec_annual_values_trends_theil_sen.rds
+    ├── 08_wateruse_all_sectors_annual_values_trends_theil_sen.rds
+    └── params.rds
+
+8 directories, 186 files

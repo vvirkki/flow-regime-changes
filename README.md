@@ -8,10 +8,10 @@ Vili Virkki, Reetik Kumar Sahu, Mikhail Smilovic,
 Josias Láng-Ritter, Miina Porkka, Matti Kummu
 
 **Published in _Environmental Research Communications_**  
-DOI LINK TO BE ADDED
+[https://doi.org/10.1088/2515-7620/ad9439](https://doi.org/10.1088/2515-7620/ad9439)
 
 **Supporting data is available in a Zenodo repository**  
-[https://doi.org/10.5281/zenodo.11102423](https://doi.org/10.5281/zenodo.11102423)
+[https://doi.org/10.5281/zenodo.11102422](https://doi.org/10.5281/zenodo.11102422)
 
 **Corresponding authors of the article**  
 Vili Virkki (vili.virkki@uef.fi)  
@@ -86,7 +86,7 @@ Git tags.
 #### v1.0.0.
 
 Version used in producing the results shown in the
-[_Environmental Research Communications_ manuscript] DOI LINK TO BE ADDED
+[_Environmental Research Communications_ manuscript](https://doi.org/10.1088/2515-7620/ad9439)
 
 ### License
 

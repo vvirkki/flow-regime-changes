@@ -13,10 +13,10 @@
 # Miina Porkka, Matti Kummu
 #
 # Published in Environmental Research Communications
-# LINK TO ADD
+# https://doi.org/10.1088/2515-7620/ad9439
 # 
 # Data availability:
-# https://doi.org/10.5281/zenodo.11102423
+# https://doi.org/10.5281/zenodo.11102422
 # 
 # Code availability:
 # https://github.com/vvirkki/flow-regime-changes
